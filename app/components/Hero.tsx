@@ -23,7 +23,16 @@ const Hero = () => {
     window.addEventListener('resize', resizeCanvas);
     
     // Particle effect
-    const particles: any[] = [];
+    interface Particle {
+      x: number;
+      y: number;
+      size: number;
+      speedX: number;
+      speedY: number;
+      color: string;
+    }
+    
+    const particles: Particle[] = [];
     const particleCount = 100;
     
     for (let i = 0; i < particleCount; i++) {

@@ -66,7 +66,7 @@ const Resume = () => {
                   <p className="font-semibold text-blue-500 mb-1">Junior Full Stack Developer</p>
                   <ul className="list-disc ml-5 text-sm">
                     <li>Responsable for maintaining an Electronic Invoicing application.</li>
-                    <li>Worked on adding new features and made continuous improvements to optimize the application's performance.</li>
+                    <li>Worked on adding new features and made continuous improvements to optimize the application’s performance.</li>
                     <li>Developed small additional applications using C#.</li>
                   </ul>
                 </div>
@@ -98,7 +98,7 @@ const Resume = () => {
               <section className="mb-6">
                 <h2 className="text-xl font-bold border-b-2 border-gray-300 pb-1 mb-4">PROFILE</h2>
                 <p className="text-sm">
-                  I'm a FullStack Developer with 5 years of experience in developing
+                  I’m a FullStack Developer with 5 years of experience in developing
                   high-quality web applications. I specialize in building robust and
                   scalable software, with a strong focus on performance optimization
                   and continuous improvements in user experience. I have worked on
@@ -115,7 +115,7 @@ const Resume = () => {
                 <h2 className="text-xl font-bold border-b-2 border-gray-300 pb-1 mb-4">EDUCATION</h2>
                 <div className="mb-2">
                   <div className="flex justify-between">
-                    <p className="font-bold text-sm">Bachelor's Degree in Systems Engineering</p>
+                    <p className="font-bold text-sm">Bachelor’s Degree in Systems Engineering</p>
                   </div>
                   <p className="text-sm">Universidad Latina C.R.</p>
                   <p className="text-sm text-blue-500">2016 - 2019</p>

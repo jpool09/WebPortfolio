@@ -8,7 +8,7 @@ export const metadata = {
   description: 'Jean Pool Cruz developer portal focused on Web3 and AI integration',
 };
 
-export default function RootLayout({ children }) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
       <body className={`${inter.className} bg-zinc-950 text-zinc-100 min-h-screen`}>
